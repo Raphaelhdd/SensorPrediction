@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "pipe_id": "465b46ee-2328-fadb-a11d-0b4238fdce8d"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.4199653393006884,
+                        0.1914098410634324
+                    ],
+                    [
+                        9.829987706267275,
+                        0.9413967670989223
+                    ],
+                    [
+                        13.249974695558194,
+                        1.5914704010356218
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "pipe_id": "3689e26a-8907-bd2a-4988-d071337e5305"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        6.872460218553897,
+                        0.8755898842355236
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "pipe_id": "121ea3dd-2b86-7989-aeef-712947b73f45"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3500373355927877,
+                        0.09148771734908223
+                    ],
+                    [
+                        5.859998781408649,
+                        0.5714893274125643
+                    ]
+                ]
+            }
+        }
+    ]
+}
